@@ -3,7 +3,7 @@
 name: Walmyr Carvalho
 paginate: 10
 paginate_path: "/posts/page/:num/"
-url: http://walmyrcarvalho.github.io
+url: https://walmyrcarvalho.github.io
 blog_theme: light # Or use dark
 
 # Optional settings
